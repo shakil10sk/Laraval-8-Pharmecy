@@ -1,0 +1,7 @@
+1 : At first Table Seeder Create 
+2 : Multi Auth https://www.itsolutionstuff.com/post/laravel-8-user-roles-and-permissions-tutorialexample.html ;
+---------First ------
+    1 : php artisan migrate:fresh --seed 
+    2 : php artisan db:seed --class=PermissionTableSeeder
+    3 : php artisan db:seed --class=CreateAdminUserSeeder
+    
