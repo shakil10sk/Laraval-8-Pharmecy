@@ -1,9 +1,9 @@
 ## Features: Inventory, Medicine stock, Purchase, Sales, Reports
 
-# Database ERD
+## Database ERD
 
-# API list + sample responses
+## API list + sample responses
 
-# Admin panel screenshots
+## Admin panel screenshots
 
-# Installation steps
+## Installation steps
